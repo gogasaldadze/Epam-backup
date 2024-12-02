@@ -1,0 +1,7 @@
+# files 
+*.log .db
+
+
+# directories 
+/bin/
+
